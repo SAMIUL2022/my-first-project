@@ -1,0 +1,301 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin: 0;
+    
+}
+.banner {
+    background-image: url('../images/banner/banner3.png');
+    width: 1600px;
+    height: 808px;
+    text-align: right;
+    background-size:cover;
+    width: 100%;
+    
+
+    
+    
+
+        
+}
+.banner-title {
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    
+    border: 230px 300px;
+   margin-bottom: 50px;
+font-weight : 700;
+font-size: 65px;
+color: #FFFFFF;
+line-height: 76.25px;
+text-align: right;
+position: absolute;
+}
+.banner-sec {
+    position: absolute;
+}
+.banner-para {
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+text-align: right;
+
+color: #FFFFFF;
+
+
+}
+.primary-btn {
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 50px;
+    
+    color: #005FAC;
+    position: absolute;
+}
+/* failure sec styles */
+.failure-container {
+    width: 1109px;
+height: 723.3px;
+left: 107px;
+top: 935px;
+margin-bottom: 200px;
+}
+
+ 
+
+    
+   .half {
+    width: 40%;
+    float: left ;
+    margin-left:5%;
+    padding-left: 2%;
+   }
+    
+
+
+ 
+ .article {
+
+    margin-top: 230px;
+    width: 416px;
+    height: 400px;
+    left: 800px;
+    top: 1130px;
+    margin-left: 300px;
+    
+
+ }
+.failure-title {
+    margin-bottom: 25px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+}
+.failure-text {
+    margin-bottom: 25px;
+    color: #444343;
+    font-size: 16px;
+
+}
+.failure-list {
+  list-style: square
+  color : #444343;
+  font-size: 16px;
+
+
+
+}
+
+/* plan section style */
+.plan-info{
+    display: flex;
+    justify-content: space-between;
+    
+}
+    
+  .plan-container {
+    width: 1188px;
+height: 214.96px;
+left: 294px;
+top: 1897px;
+margin:200px 0px;
+margin-left: 200px;
+align-content: center;
+
+
+}
+.plan-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 60px;
+
+}
+
+.img-web {
+    left: 405px;
+    top: 1903px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    
+
+}
+.img-title {
+
+    color: #151414;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 15px;
+   
+
+}
+.info {
+    color: #737272;
+    text-align: center;
+
+
+
+}
+
+/* mindset section styles */
+.mindset {
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    margin: 100px 200px;
+    border-radius: 8px;
+    background: url("../images/gradient1.png"),url("../images/watch.png");
+          
+
+
+}
+
+
+
+    
+.minset-title {
+
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    width: 459px;
+    height: 94px;
+    left: 294px;
+    top: 2280.96px;    
+    margin-left: 150px;
+    text-decoration: left;
+    padding-top: 100px;
+    margin-bottom:30px ;
+}
+
+.btn-call {
+    margin-left: 150px;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2398.96px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: 1600px;
+    height: 577px;
+    left: 0px;
+    top: 2651.96px;
+    
+}
+.future {
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    top: 2781.96px;
+    color: #FFFFFF;
+    position: absolute;
+
+}
+.subscribe {
+    position: absolute;
+width: 325px;
+height: 204px;
+left: 1046px;
+top: 2781.96px;
+color: #FFFFFF;
+
+}
+.future-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 15px;
+}
+.future-para {
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.email {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.phone {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-bottom: 20px;
+
+
+}
+
+.subscribe-title {
+    font-weight: 600;
+font-size: 25px;
+color: #FFFFFF;
+margin-bottom: 30px;
+
+}
+.enter mail {
+    width: 325px;
+
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    position: absolute;
+    color: #F3F3F3;
+    border-radius: 10px;
+
+
+}
+.btn-sub
+{   margin-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    idth: 170.11px;
+height: 64px;
+left: 1046px;
+top: 2921.96px;
+    border-radius: 5px;
+    background: #005FAC;
+border-radius: 8px;
+}
