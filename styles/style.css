@@ -26,12 +26,12 @@
     
     border: 230px 300px;
    margin-bottom: 50px;
-font-weight : 700;
-font-size: 65px;
-color: #FFFFFF;
-line-height: 76.25px;
-text-align: right;
-position: absolute;
+    font-weight : 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    
+    text-align: right;
+    position: absolute;
 }
 .banner-sec {
     position: absolute;
@@ -106,17 +106,14 @@ margin-bottom: 200px;
 }
 .failure-text {
     margin-bottom: 25px;
-    color: #444343;
+    color: #151414;
     font-size: 16px;
 
 }
 .failure-list {
     list-style: square
-    color : #444343;
+    color: #F3F3F3;
     font-size: 16px;
-
-
-
 }
 
 /* plan section style */
@@ -141,7 +138,7 @@ margin-bottom: 200px;
     text-align: center;
     font-weight: 700;
     font-size: 40px;
-    color: #151414;
+    color: black;
     margin-bottom: 60px;
 
 }
@@ -183,7 +180,6 @@ margin-bottom: 200px;
     background: url("../images/gradient1.png"),url("../images/watch.png");
           
 
-
 }
 
 
@@ -199,7 +195,7 @@ margin-bottom: 200px;
     left: 294px;
     top: 2280.96px;    
     margin-left: 150px;
-    text-decoration: left;
+   
     padding-top: 100px;
     margin-bottom:30px ;
 }
